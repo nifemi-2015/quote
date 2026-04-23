@@ -1,0 +1,27 @@
+body {
+    background-color: red;
+}
+
+img {
+    width: 100%;
+    border: 5px solid white;
+}
+
+.h1 {
+    text-align: center;
+    
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 25%;
+}
+
+p {
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    font-weight: 200;
+    font-style: normal;
+}
